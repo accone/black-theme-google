@@ -1,0 +1,23 @@
+a {
+    background: #0066DD;
+    text-decoration: none;
+}
+
+button {
+    width: 150px;
+    height: 40px;
+    background: #0066DD;
+    border: none;
+    border-radius: 5px/5px;
+}
+input {
+    width: 500px;
+    height: 30px;
+}
+.check {
+    width: 20px;
+    height: 20px;
+}
+.cont {
+    font-family: 'Alata', sans-serif;
+}
